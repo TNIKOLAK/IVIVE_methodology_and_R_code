@@ -39,8 +39,8 @@ This is demonstrated through an example scenario for "Compound X" (Good Agreemen
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/your-username/ivive-repository.git
-   cd ivive-repository
+    git clone https://github.com/THNIKOLA/IVIVE_methodology_and_R_code.git
+    cd IVIVE_methodology_and_R_code
    ```
 
 2. **Review the Methodology**:
