@@ -80,4 +80,4 @@ This is demonstrated through an example scenario for "Compound X" (Good Agreemen
 
 ## Contact
 
-For questions, contact [your-email@example.com] or open an issue on GitHub.
+For questions, contact [nikolako@mail.ntua.gr] or open an issue on GitHub.
